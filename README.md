@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-singh-a95b75243)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhvikrant06486@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikki-tec)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://vikrant-portfolio-five.vercel.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vikki-tec&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Vikki-tec?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
@@ -194,8 +195,6 @@ Performed end-to-end data analysis workflows to support data-driven decision-mak
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/vikrant_thakur/)
 
-[![Protfolio](https://vikrant-portfolio-five.vercel.app)
-
 </div>
 
 ---
@@ -274,6 +273,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhvikrant06486@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-singh-a95b75243)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikki-tec)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://vikrant-portfolio-five.vercel.app/)
 
 </div>
 
