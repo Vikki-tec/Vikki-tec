@@ -194,6 +194,8 @@ Performed end-to-end data analysis workflows to support data-driven decision-mak
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/vikrant_thakur/)
 
+[![Protfolio](https://vikrant-portfolio-five.vercel.app)
+
 </div>
 
 ---
